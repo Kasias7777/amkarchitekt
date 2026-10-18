@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://kasias7777.github.io/amkarchitekt/sitemap.xml
