@@ -1,1 +1,16 @@
-{"routes":[{"path":"/","title":"Start | Architekt Marcin Kuryłowicz"},{"path":"/oferta","title":"Oferta | Architekt Marcin Kuryłowicz"},{"path":"/realizacje","title":"Realizacje | Architekt Marcin Kuryłowicz"},{"path":"/kontakt","title":"Kontakt | Architekt Marcin Kuryłowicz"}]}
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Start - Pracownia Architekta Marcina Kuryłowicza"
+    },
+    {
+      "path": "/projekty",
+      "title": "Projekty - Pracownia Architekta Marcina Kuryłowicza"
+    },
+    {
+      "path": "/kontakt",
+      "title": "Kontakt - Pracownia Architekta Marcina Kuryłowicza"
+    }
+  ]
+}
